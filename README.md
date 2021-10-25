@@ -1,46 +1,46 @@
+<!--
+**AmauryvanKeste/amauryvankeste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ### Hi there, I am Amaury 👋
 
 #### A Junior Data Scientist based in Belgium. Let's connect!
 
-<!--
-**AmauryvanKeste/amauryvankeste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there, I am Arlene. 👋
-
-#### A Junior Data Scientist based in Antwerp, Belgium. Let's connect!
-
-##### NOW
-- ✨ Fine tuned a pretrained neural network using transfer learning to remove the background from images.
-- ✨ Co-created a project using deep learning techniques (CNN) to predict Yoga poses for a start up company in Antwerp
-- 💬 Recently created a project about Natural Language Processing (NLP) Text Summarization using HuggingFace Transformers. 
-- ⚙️ Co-created a project about [customer churn prediction](https://predicting-churn.herokuapp.com/) to help predict if a customer is likely to churn.  
-- ✨ Co-created a [machine learning model](https://codit-usecase.herokuapp.com/) to predict if an industrial machine will malfunction using sound. 
-- 🔭 Currently learning about unsupervised learning, data clustering, and model deployment.
-
-##### BIO
+##### Toolkit
 
 - 🏢 I'm currently following an intensive **Artificial Intelligence** training at **Becode.org**
-- ⚙️ I use daily: `python`, `sci-kit learn`, `flask`,`pandas`
+- ⚙️ I use daily: `python`, `sci-kit learn`, `streamlit`,`pandas`
 - 🌍 I'm mostly active within the **Python and Machine Learning Community**
 - 🌱 Learning all about **Data Science, Machine learning, Deep Learning**
 - 💬 Ask me about **Data manipulation**, **ML model creation**, **python**, **NLP**, **Model deployment**, **Web development**
-- 📫 Reach me at: [arlene14ko@gmail.com](arlene14ko@gmail.com)
-- ⚡️ Fun fact: I created a recipe website to show my love for cooking. (It's in my repos!)
+- 📫 Reach me at: [amaury.v.kesteren@gmail.com](amaury.v.kesteren@gmail.com)
+
+##### Projects and Stuff I currently work on
+
+- 💬 Fine-tuning a Natural Language Processing (NLP) project that analyses how positive/negative a specific theme is y scraping a bunch of tweets in "live".
+- ✨ Co-created a project using deep learning techniques (CNN) to predict skin cancer by scanning moles.
+
+
+##### PROJECTS: FINALIZING
+
+- 🎮 Predicting Steam game sales and displaying popular games and sales statistics.
+- 🏭 We created an automated bearing testing system to see which bearing is faulty using Fast Fourier Transformation.
+
+
+##### BIO - domains and interests
+
+- 🏃 Quantified Self
+- 🧬 Genetics and Ancestry
+- 🗺️ Geography and History
+- 🖇️ Supply-chain and logistics
+- 🤓 Psychology and Personal Development
+
 
 ##### Deployed Machine Learning Projects
-- 🏢 Machine Learning Model to predict if a customer is likely to churn. https://predicting-churn.herokuapp.com/
-- 🎵 Machine Learning Model to predict if there is an anomaly in an industrial machine using a sound file. https://codit-usecase.herokuapp.com/
-- 🌍 Machine Learning Model to predict the salary based on the years of experience. https://predict-salary-101.herokuapp.com/
+- 🏢 
+- 🎵 
+- 🌍 
 
 ##### Deployed Web Development Projects
-- 💬 Random Quote Generator. https://ap-randomquote.netlify.app/
-- 🦠 Covid 19 Tracker. https://trackingcovid-19.netlify.app/
-- 🍛 Food Recipe Website. https://deepfrying.netlify.app/
-- 🍜 Restaurant Website. https://pinoyplate.netlify.app/
-- 🎵 Music Maker App. https://music-maker-app.netlify.app/
-- 🧘 Meditate App. https://meditate-app.netlify.app/
-
-
-   
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=informational)
@@ -77,6 +77,5 @@
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/superARL_
-[2]: https://github.com/arlene14ko
-[3]: https://www.linkedin.com/in/arlene-postrado/
+[1]: https://github.com/AmauryvanKeste
+[2]: https://www.linkedin.com/in/amaury-van-kesteren/
