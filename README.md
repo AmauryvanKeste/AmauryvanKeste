@@ -1,6 +1,3 @@
-
-**AmauryvanKeste/amauryvankeste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I am Amaury 👋
 
 #### A Junior Data Scientist based in Belgium. Let's connect!
