@@ -54,7 +54,8 @@
 
 
 <a href="https://github.com/AmauryvanKeste">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmauryvanKeste&show_icons=true&line_height=27&count_private=true" alt="Amaury's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmauryvanKeste&theme=dark&show_icons=true&line_height=27&count_private=true/>
+                           https://github-readme-stats.vercel.app/api?username=AmauryvanKeste&show_icons=true&line_height=27&count_private=true" alt="Amaury's GitHub Stats" />
 </a>
 <a href="https://github.com/AmauryvanKeste">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmauryvanKeste&hide=java,html,text&langs_count=3" />
