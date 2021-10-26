@@ -1,3 +1,4 @@
+<!--
 **AmauryvanKeste/amauryvankeste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there, I am Amaury 👋
@@ -10,7 +11,7 @@
 - ⚙️ I use daily: `python`, `sci-kit learn`, `streamlit`,`pandas`
 - 🌍 I'm mostly active within the **Python and Machine Learning Community**
 - 🌱 Learning all about **Data Science, Machine learning, Deep Learning**
-- 💬 Ask me about **Data manipulation**, **ML model creation**, **python**, **NLP**, **Model deployment**
+- 💬 Ask me about **Data manipulation**, **ML model creation**, **python**, **NLP**, **Model deployment**, **Web development**
 - 📫 Reach me at: [amaury.v.kesteren@gmail.com](amaury.v.kesteren@gmail.com)
 
 ##### Projects and Stuff I currently work on
@@ -54,8 +55,7 @@
 
 
 <a href="https://github.com/AmauryvanKeste">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmauryvanKeste&theme=dark&show_icons=true&line_height=27&count_private=true/>
-                           https://github-readme-stats.vercel.app/api?username=AmauryvanKeste&show_icons=true&line_height=27&count_private=true" alt="Amaury's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmauryvanKeste&theme=great-gatsby&show_icons=true&line_height=27&count_private=true" alt="Amaury's GitHub Stats" />
 </a>
 <a href="https://github.com/AmauryvanKeste">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmauryvanKeste&hide=java,html,text&langs_count=3" />
