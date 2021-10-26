@@ -52,7 +52,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmauryvanKeste&theme=great-gatsby&show_icons=true&line_height=27&count_private=true" alt="Amaury's GitHub Stats" />
 </a>
 <a href="https://github.com/AmauryvanKeste">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmauryvanKeste&hide=java,html,text&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmauryvanKeste&theme=great-gatsby&hide=java,html,text&langs_count=3" />
 </a>
 
 <!-- links to social media icons -->
