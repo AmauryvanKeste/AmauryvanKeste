@@ -71,5 +71,5 @@
 
 ## links to social media accounts
 
-[1]: https://github.com/AmauryvanKeste
+[1]:(https://github.com/AmauryvanKeste)
 [2]: https://www.linkedin.com/in/amaury-van-kesteren/
