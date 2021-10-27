@@ -47,7 +47,6 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauryvanKeste&hide=contribs,prs)
 
 <a href="https://github.com/AmauryvanKeste">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmauryvanKeste&theme=great-gatsby&show_icons=true&line_height=27&count_private=true" alt="Amaury's GitHub Stats" />
