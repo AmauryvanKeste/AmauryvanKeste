@@ -69,7 +69,7 @@
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/arlene14ko/arlene14ko/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- links to your social media accounts -->
+## links to social media accounts
 
 [1]: https://github.com/AmauryvanKeste
 [2]: https://www.linkedin.com/in/amaury-van-kesteren/
